@@ -1,0 +1,3 @@
+Health: 70
+Health: 100
+Health: 0

@@ -1,0 +1,3 @@
+Savings: 70
+Withdrawal accepted: false
+Savings: 70

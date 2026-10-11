@@ -1,0 +1,3 @@
+Present count: 2
+Ben present: true
+Chen present: false
